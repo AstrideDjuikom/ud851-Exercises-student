@@ -46,7 +46,7 @@ public class SettingsActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-
+}
 
     // done (2) Create a class called SettingsFragment that extends PreferenceFragmentCompat
     // done (3) In res->xml create a file called pref_visualizer
@@ -61,4 +61,3 @@ public class SettingsActivity extends AppCompatActivity {
     // done (7) Set the root layout of activity_settings to our newly created SettingsFragment
     // and remove the padding.
     // [HINT] Use a <fragment> element in xml
-}
