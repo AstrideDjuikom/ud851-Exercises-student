@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context="com.example.android.background.MainActivity">
+    tools:context="com.example.android.background.MainActivity"
+    android:background="@mipmap/ic_eau_round">
 
     <TextView
         android:id="@+id/tv_instructions"
